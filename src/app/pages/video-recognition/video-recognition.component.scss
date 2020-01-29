@@ -1,0 +1,19 @@
+.v-rec-video {
+    display: block;
+    margin: 0 auto;
+    width: 400px;
+}
+
+.video-backgrnd {
+    margin: 0 auto;
+    width: 400px;
+    outline: none;
+    border-color: #9ecaed;
+    box-shadow: 0 0 40px #9ecaed;
+
+    .video-text {
+        text-align: center;
+        padding: 10px;
+    }
+}
+
